@@ -59,7 +59,7 @@ Login successful!
 
 ##  File Structure:
 
-- `Banking System.cpp` - Contains the full source code.
+- `Login and Registration System.cpp` - Contains the full source code.
 - `user.txt` - Auto-generated file that stores user credentials in `username:password` format.
 
 ---
